@@ -1,0 +1,197 @@
+body {
+    margin: 0px;
+    text-align: center;
+    position: relative;
+}
+p {
+  margin: 0px;
+}
+textarea {
+  resize: none;
+}
+.header {
+    margin: 0px;
+    background-image: linear-gradient( #4c88f0,  #0055E3);
+    background-color: #0055E3;
+    height:70px;
+}
+h1 {
+    margin-top: 0px;
+    color: white;
+    text-align: left;
+    margin-left: 5%;
+    max-width: 50%;
+}
+/* .refresh{
+  margin-top: 0px;
+  margin-right: 0px;
+  float: right;
+} */
+.zapis {
+  text-align: center;
+}
+.middle {
+    margin-left: 15%;
+    margin-right: 15%;
+    min-height: 90%;
+    max-width: 70%;
+    border-color: black;
+    border-right: ridge;
+    border-left: ridge;
+    background-color: white;
+}
+.footer{
+    text-align: right;
+}
+.button-13 {
+  background-color: #fdfbfb;
+  border: 1px solid #d5d9d9;
+  border-radius: 8px;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  box-sizing: border-box;
+  color: #0f1111;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Amazon Ember",sans-serif;
+  font-size: 13px;
+  line-height: 29px;
+  padding: 0 10px 0 11px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  width: 75px;
+}
+
+.button-13:hover {
+  background-color: #ffffff;
+}
+
+.button-13:focus {
+  border-color: #008296;
+  box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+  outline: 0;
+}
+.komorka1{
+  width: 20%;
+  text-align: center;
+  background-color: rgb(243, 240, 240);
+  border: 1px solid rgb(243, 240, 240);
+  margin: 0px;
+}
+.komorka2 {
+  width: 20%;
+  text-align: center;
+  background-color: white;
+  border: 1px solid white;
+  margin: 0px;
+}
+table{
+  margin: 0px;
+  width: 100%;
+}
+.rekord:hover{
+  box-shadow: rgba(105, 107, 107, 0.5) 0 2px 5px 0;
+  outline: 0;
+}
+.przedmiot{
+  display: inline-block;
+  margin: 1px;
+}
+input,select{
+  height: 25px;
+    width: 20%;
+}
+.checkbox-all{
+  height: 15px;
+  width: 2%;
+}
+.edit{
+  margin: 0px;
+  background-color: #FDF7DF;
+  border: 1px solid #FEEC6F;
+  color: #C9971C;
+  height: 5%;
+}
+.dodawanie{
+  text-align: center;
+}
+.input_pole{
+  width: 90%;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+.promowany{
+  border-style: solid;
+  border-color: red;
+}
+.sympt{
+  position: absolute;
+  margin-left: 70%;
+  background-color: #FDF7DF;
+  border: 1px solid #FEEC6F;
+  color: #C9971C;
+  width: 30%;
+}
+.Adminmenu1 {
+  color: #000;
+  max-height: 35;
+  width: 9%;
+  text-decoration: none;
+  border-right: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background-color: rgb(243, 240, 240);
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  text-decoration: none;
+}
+.Adminmenu1:hover {
+  background-color: white;
+}
+.Adminmenu2{
+  border-collapse: collapse;
+}
+.Adminmenu3{
+  border-collapse: collapse;
+}
+.Adminmenu4 {
+  color: #000;
+  max-height: 35;
+  width: 9%;
+  text-decoration: none;
+  border-right: 1px solid lightgrey;
+  border-left: 1px solid lightgrey;
+  border-collapse: collapse;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  background-color: white;
+}
+.dost1{
+  font-size: 17px;
+  text-decoration: underline;
+}
+.dost2{
+  color: rgb(34, 34, 34);
+}
+.dost3{
+  height: 15px;
+  width: 2%;
+}
